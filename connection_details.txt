@@ -1,0 +1,45 @@
+{
+"Master1": {
+            "username": "contprov", 
+            "ip": "192.168.100.1", 
+            "secret": "qwe123", 
+            "password": "qwe123", 
+            "device_type": "linux"
+            },
+"Master2": {
+            "username": "contprov", 
+            "ip": "192.168.100.2", 
+            "secret": "qwe123", 
+            "password": "qwe123", 
+            "device_type": "linux"
+            },
+"Worker1": {
+            "username": "contprov", 
+            "ip": "192.168.201.2", 
+            "secret": "qwe123", 
+            "password": "qwe123", 
+            "device_type": "linux"
+            },
+"Worker2": {
+            "username": "contprov", 
+            "ip": "192.168.202.2", 
+            "secret": "qwe123", 
+            "password": "qwe123", 
+            "device_type": "linux"
+            },
+"RemoteController": {
+            "username": "contprov", 
+            "ip": "192.168.102.1", 
+            "secret": "qwe123", 
+            "password": "qwe123", 
+            "device_type": "linux"
+            },
+"OVS": {
+	    "username": "contprov",
+	    "ip": "192.168.101.2",
+	    "secret": "qwe123",
+            "password": "qwe123",
+            "device_type": "linux"
+            }
+} 
+
